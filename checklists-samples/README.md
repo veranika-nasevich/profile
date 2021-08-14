@@ -1,6 +1,8 @@
 ### Task1:
-* Part A: функция загрузки файлов
-* Part B: скрин мессенджера WhatsApp
+ Create checklists for:
+ 
+* Part A: Upload files feature
+* Part B: WhatsApp messenger's screenshot
 
 ### Task2:
 * Create a Smoke checklist for calc application;
