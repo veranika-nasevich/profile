@@ -1,10 +1,10 @@
-##### Task1:
+#### Task1:
  Create checklists for:
  
 * Part A: Upload files feature
 * Part B: WhatsApp messenger's screenshot
 
-##### Task2:
+#### Task2:
 * Create a Smoke checklist for calc application;
 * Create a test suite based on Smoke checklist;
 * Create a checklist for requirement #22.2;
