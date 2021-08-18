@@ -22,5 +22,10 @@
         * Add xmlns="http://tempuri.org/" as attribute to method tag;
       * intA – Integer;
       * intB – Integer;
-* Soap envelope sample: https://docs.google.com/presentation/d/1oK5c0sAywxpc9XT6Ltim0_UZchUnv0QRMaOGHdiWmfY/edit?usp=sharing
+* Soap envelope sample:
+* <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+      <soapenv:Body>
+	  ...
+   </soapenv:Body>
+</soapenv:Envelope>
 * WS responses with XML object, which contains the result of the operation.
