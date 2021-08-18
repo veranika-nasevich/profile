@@ -1,0 +1,18 @@
+﻿Archive format: 7z, tar, wim, zip
+Compression level: without compression, normal, ultra
+Compression method: LZMA2, LZMA, PPMd, BZip2
+Dictionary size: 64 Kb, 1 MB, 16 MB, 1536 MB
+Word size: 8, 32, 273
+Solid block size: by file size, 8 MB, 2 GB, continuous
+Number of CPU threads: 1, 4, 8
+Split to volumes, bytes: 10М, 650М - CD, 4092M - FAT, 4480M - DVD, 8128M - DVD DL, 23040M - BD
+Parameters: 0=PPMd, qs=on
+Update mode: add and replace files, update and add, update, synchronize
+File paths: relative paths, full paths, absolute paths
+Create SFX-archive: on, off
+Compress shared files: on, off
+Delete files after compression: on, off
+Enter password: empty, value entered
+Reenter password: empty, value entered
+Show password: on, off
+Encrypt file names: on, off
