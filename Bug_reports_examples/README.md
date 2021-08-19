@@ -1,5 +1,7 @@
 #### Task1
 
+![App_screenshot](./image/Screenshot1.png)
+
 * Create a Smoke checklist for calc application;
 * Create a test suite based on Smoke checklist;
 * Create a checklist for requirement #22.2;
